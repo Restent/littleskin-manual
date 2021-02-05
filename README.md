@@ -9,7 +9,7 @@ title: 首页
 你可以在 [GitHub](https://github.com/tnqzh123/littleskin-manual) 获取到 LittleSkin 用户使用手册的所有 Markdown 源文件。
 
 ::: tip
-由于[官方用户手册](https://manual.littlesk.in)最近出现的 Bug 过于频繁，[LittleSkin 社区技术支持组](https://github.com/LittleSkinCommspt)的一些成员建立了镜像站，本站便是其中之一。
+由于[官方用户手册](https://manual.littlesk.in)最近出现 Bug 过于频繁，[LittleSkin 社区技术支持组](https://github.com/LittleSkinCommspt)的一些成员建立了镜像站，本站便是其中之一。
 
 与主站合并时间大概是 1~2 周一次，如果没有任何改动将不会合并。
 :::
